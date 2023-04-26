@@ -1,3 +1,17 @@
+<h1 align="center">Hi 👋, I'm Isa</h1>
+
+
+- 🔭 Recently completed a **coding bootcamp at <AcademiadeCódigo_>**
+
+- 📫 How to reach me **isadecarvalhodev@gmail.com**
+
+- 📄 My first game [https://javawitness.itch.io/java-witness](https://javawitness.itch.io/java-witness)
+
+- ⚡ Fun fact **I have plant collection**
+
+
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isadecarvalhodev) 
