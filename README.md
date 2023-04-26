@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Isa
-![giphy (4)](https://user-images.githubusercontent.com/130545617/234721235-db7ffa92-9714-4e1d-84ed-0bcd0f5aebe7.gif) </h1>
+<h1 align="center">Hi 👋, I'm Isa </h1>
+
+![giphy (4)](https://user-images.githubusercontent.com/130545617/234721311-c6c1eed6-b463-4284-9420-a1a4f764a52f.gif)
+
 
 
 - 🔭 Recently completed a **coding bootcamp at <AcademiadeCódigo_>**
