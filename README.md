@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Isa</h1>
+<h1 align="center">Hi 👋, I'm Isa
+![giphy (4)](https://user-images.githubusercontent.com/130545617/234721235-db7ffa92-9714-4e1d-84ed-0bcd0f5aebe7.gif) </h1>
 
 
 - 🔭 Recently completed a **coding bootcamp at <AcademiadeCódigo_>**
@@ -11,8 +12,6 @@
 
 
 
-
-![giphy (3)](https://user-images.githubusercontent.com/130545617/234720506-33e378bc-495a-4c3d-ac5b-d69b16bb0f65.gif)
 
 
 
