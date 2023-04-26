@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isa
 
-  ![giphy (6)](https://user-images.githubusercontent.com/130545617/234722601-0eb0d893-46f6-444a-9faa-9c3533147a82.gif)
+ ![ezgif-2-f98785731a](https://user-images.githubusercontent.com/130545617/234722998-bd5a9722-adb6-4c8f-b0ba-e308240589b2.gif)
 
   
   
