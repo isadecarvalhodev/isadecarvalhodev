@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Isa </h1>
+<h1 align="center">Hi 👋, I'm Isa
 
-![giphy (4)](https://user-images.githubusercontent.com/130545617/234721311-c6c1eed6-b463-4284-9420-a1a4f764a52f.gif)
+  ![giphy (5)](https://user-images.githubusercontent.com/130545617/234722540-8a511952-ca19-4224-b5d5-fd4927b15e3f.gif)
+
+  
+  
+</h1>
+
 
 
 
