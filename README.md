@@ -10,14 +10,6 @@
 - ⚡ Fun fact **I have plant collection**
 
 
-![ezgif-2-f98785731a](https://user-images.githubusercontent.com/130545617/234722998-bd5a9722-adb6-4c8f-b0ba-e308240589b2.gif)
-
-
-
-
-
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isadecarvalhodev) 
 
