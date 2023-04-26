@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isa
 
- ![ezgif-2-f98785731a](https://user-images.githubusercontent.com/130545617/234722998-bd5a9722-adb6-4c8f-b0ba-e308240589b2.gif)
-
   
   
 </h1>
@@ -16,6 +14,10 @@
 - 📄 My first game [https://javawitness.itch.io/java-witness](https://javawitness.itch.io/java-witness)
 
 - ⚡ Fun fact **I have plant collection**
+
+
+![ezgif-2-f98785731a](https://user-images.githubusercontent.com/130545617/234722998-bd5a9722-adb6-4c8f-b0ba-e308240589b2.gif)
+
 
 
 
