@@ -12,6 +12,9 @@
 
 
 
+![giphy (3)](https://user-images.githubusercontent.com/130545617/234720506-33e378bc-495a-4c3d-ac5b-d69b16bb0f65.gif)
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isadecarvalhodev) 
@@ -29,4 +32,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=isadecarvalhodev&icon=9&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
