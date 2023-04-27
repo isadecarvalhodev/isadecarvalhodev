@@ -7,7 +7,7 @@
 
 - 📄 My first game [https://javawitness.itch.io/java-witness](https://javawitness.itch.io/java-witness)
 
-- ⚡ Fun fact **I have plant collection**
+- ⚡ Fun fact **I have a plant collection**
 
 
 ## 🌐 Socials:
