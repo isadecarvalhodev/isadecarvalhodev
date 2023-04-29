@@ -19,7 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=isadecarvalhodev&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=isadecarvalhodev&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isadecarvalhodev&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+___
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=isadecarvalhodev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -28,4 +28,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=isadecarvalhodev&icon=9&color=4)](https://visitcount.itsvg.in)
+
 
