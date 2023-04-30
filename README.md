@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **I have a plant collection**
 
-![giphy (9)](https://user-images.githubusercontent.com/130545617/235379310-4e371ff9-d438-4cfd-a1aa-1436b01c8b0c.gif)
 
 ____
 
