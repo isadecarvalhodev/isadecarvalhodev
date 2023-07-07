@@ -1,7 +1,7 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Welcome👋&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
-- 🔭 Recently completed a **coding bootcamp at <AcademiadeCódigo_>**
+- 🔭 Recently completed a **coding bootcamp at <Academia_de_Código_>**
 
 - 📫 How to reach me **isadecarvalhodev@gmail.com**
 
