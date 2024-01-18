@@ -22,7 +22,7 @@ _______
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ______
 
-![binaryCat](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80390060030853805991279322829627921456173715833405309723844448011104303448065/)
+![binaryCat](https://i.seadn.io/gae/_YIoKz_EmInCKgtGbJzUSpn8Liz7Mr4UIZN7aCJoCknVKkRDyWJIXe4koNnIMg84DEu4Y-32cNF5OWVnA1RuAZUotmyen_FZAe_O9Q?auto=format&dpr=1&w=2048)
 
 ________________
 
