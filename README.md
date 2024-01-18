@@ -24,5 +24,5 @@ ______
 
 
 ________________
-![binariCat](https://media.discordapp.net/attachments/1180263130400571465/1197655578927976468/giphy.gif?ex=65bc0ead&is=65a999ad&hm=43023afca221c974d568667de8f810c31af238a26938342161d4654e98b01a87&=&width=964&height=964)
+![binariCat](https://media.discordapp.net/attachments/1180263130400571465/1197655578927976468/giphy.gif)
 
